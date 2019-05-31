@@ -17,9 +17,8 @@ Bash script for automated subdomain takeover
 for domains in $(ls ../Sublist3r/*.*.txt |sed 's/\.txt//'| cut -d "/" -f 3 ); do python takeover.py -d $domains -w ../Sublist3r/$domains.txt ; done  >>takeover
 
 
-Using amass for subdomain enumeration 
-
-<br> ./amass -d google.com -o outputfile
+<b>Using amass for subdomain enumeration <br>
+ ./amass -d google.com -o outputfile
 
 The above command can be used with the for loop command 
 
