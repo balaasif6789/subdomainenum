@@ -17,13 +17,14 @@ Bash script for automated subdomain takeover
 for domains in $(ls ../Sublist3r/*.*.txt |sed 's/\.txt//'| cut -d "/" -f 3 ); do python takeover.py -d $domains -w ../Sublist3r/$domains.txt ; done  >>takeover
 
 
-<b>Using amass for subdomain enumeration <br>
+<b>Using amass for subdomain enumeration </b>
+ 
  ./amass -d google.com -o outputfile
 
 The above command can be used with the for loop command 
 
 
-<b>checking for ports open from the subdomains gathered by amass 
+<b>checking for ports open from the subdomains gathered by amass </b>
 
 Using aquatone :  https://github.com/michenriksen/aquatone <br>
 Aquatone.exe is available for windows
