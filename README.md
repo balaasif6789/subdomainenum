@@ -44,3 +44,12 @@ $ cat hosts.txt | aquatone -ports large
 <b><i>PS G:\Security tools\aquatone_windows_amd64_1.7.0> cat G:\Bugbounty\2019\facebook-domains.txt | .\aquatone.exe -ports la
 rge
 
+
+
+
+<b>Links: </b>
+https://blog.appsecco.com/a-penetration-testers-guide-to-sub-domain-enumeration-7d842d5570f6<br>
+https://pentester.land/cheatsheets/2018/11/14/subdomains-enumeration-cheatsheet.html<br>
+https://www.sjoerdlangkemper.nl/2018/06/20/discovering-subdomains/ <br>
+ 
+
