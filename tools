@@ -5,3 +5,11 @@ Knock
 DNSRecon
 Sublist3r
 AltDNS
+
+subdomain takeover ( in order of preference)  
+
+subjack https://github.com/haccer/subjack   check out the scanio.sh file that can be used with subjack
+https://gist.github.com/haccer/3698ff6927fc00c8fe533fc977f850f8
+
+tko-subs https://github.com/anshumanbh/tko-subs
+subover https://github.com/Ice3man543/SubOver 
