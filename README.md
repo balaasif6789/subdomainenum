@@ -47,9 +47,10 @@ rge
 
 
 
-<b>Links: </b>
+<b>Links: </b> <br>
 https://blog.appsecco.com/a-penetration-testers-guide-to-sub-domain-enumeration-7d842d5570f6<br>
 https://pentester.land/cheatsheets/2018/11/14/subdomains-enumeration-cheatsheet.html<br>
 https://www.sjoerdlangkemper.nl/2018/06/20/discovering-subdomains/ <br>
+Bug bounty targets   https://github.com/arkadiyt/bounty-targets-data <br>
  
 
