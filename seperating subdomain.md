@@ -1,4 +1,4 @@
- root@ubuntu-s-1vcpu-1gb-nyc3-01:~/bugbounty# awk '
+ awk '
         {
                 gsub( "^.*://", "", $1 );      # ditch the http://  ftp:// etc
                 n = split( $1, a, "." );
@@ -8,3 +8,8 @@
                         printf( "%s.%s\n",  a[n-1], a[n] );
         }
 ' domains.txt | sort -u >>subdomain
+
+
+
+ <b> https://stackoverflow.com/questions/51997893/separate-multiple-subdomains-into-all-possible-subdomain-combinations-using-bash </b>
+ 
