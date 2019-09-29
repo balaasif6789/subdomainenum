@@ -11,5 +11,6 @@
 
 
 
- <b> https://stackoverflow.com/questions/51997893/separate-multiple-subdomains-into-all-possible-subdomain-combinations-using-bash </b>
+ <b> https://stackoverflow.com/questions/51997893/separate-multiple-subdomains-into-all-possible-subdomain-combinations-using-bash <br> https://www.unix.com/shell-programming-and-scripting/143198-strip-subdomains-domains-list.html
+</b>
  
