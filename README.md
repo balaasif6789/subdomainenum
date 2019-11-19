@@ -52,5 +52,5 @@ https://blog.appsecco.com/a-penetration-testers-guide-to-sub-domain-enumeration-
 https://pentester.land/cheatsheets/2018/11/14/subdomains-enumeration-cheatsheet.html<br>
 https://www.sjoerdlangkemper.nl/2018/06/20/discovering-subdomains/ <br>
 Bug bounty targets   https://github.com/arkadiyt/bounty-targets-data <br>
- 
+https://pentester.land/cheatsheets/2018/11/14/subdomains-enumeration-cheatsheet.html <br> 
 
